@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "1077433400952",
+    "project_id": "nayapakistan-a6b17",
+    "storage_bucket": "nayapakistan-a6b17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077433400952:android:d3d961f2e7c9c510b6778d",
+        "android_client_info": {
+          "package_name": "com.example.nayapakistan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077433400952-qd8t27murq2qhe81ou65cce4jh70vdp1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHlSi9VxnihIR9IEt9GZZ8VaPrnbIHyls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077433400952-qd8t27murq2qhe81ou65cce4jh70vdp1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1077433400952-g6c94mpsqdria83bbr3h6d85cn9u5j64.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.nayapakistan"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077433400952:android:21dd63ea25104597b6778d",
+        "android_client_info": {
+          "package_name": "pakistan.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077433400952-qd8t27murq2qhe81ou65cce4jh70vdp1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHlSi9VxnihIR9IEt9GZZ8VaPrnbIHyls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077433400952-qd8t27murq2qhe81ou65cce4jh70vdp1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1077433400952-g6c94mpsqdria83bbr3h6d85cn9u5j64.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.nayapakistan"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
