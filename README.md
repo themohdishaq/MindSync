@@ -2,7 +2,6 @@
 <br>
 # Flutter Project Setup Guide
 
-This guide will help you set up your Flutter project on your system.
 
 ## Prerequisites
 
