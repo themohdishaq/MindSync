@@ -1,14 +1,14 @@
 
 {
   "type": "service_account",
-  "project_id": "dynamic-osprey-406318",
-  "private_key_id": "5667c1a5369d191a24eba0c8512e3f3dff3d7764",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC/Qw3fsRhFnuis\nLjcucsePyoznwHtpZEZp9MvjDXWb/nohNOAGD0z5JNkVkDbdXA8qmwG2GJPdvHGE\nonlm60cyE5tY440Ycbw0GatVtZo0xJlcRdKxeNCAk+pbA2OhDb6o/Lvk4A74u1G3\nx8ZWx/Tsoiiyc9R7gpYb20u9r8JeJSpzQ2Fq/9W8a5Jsy6ErsrI/cdZC4+12rZc7\npmmsHPysyQc2kuvfiV5qVql7mFuJrxJtR7taTE+Evdkm27PcmiePD33dI9/szqBj\n2yYTMEbyOjX0cNqdrsGjvM93idnaChWe3WSuWDs8sD6UDGdS/pqR3rkOQpqvQXoF\noNEltbnHAgMBAAECggEACCvlO9llIBRZ/IE8+k8NF6efvYcLvsT5/SzoSRsaG0AU\nF7camyesMjjQzYsLzQlR3JAi0pTaPG8AqpoGdc83i3wq9vFB5fl2AQPXviG0JO0B\nYF/bUJnIzrWDHcBXUVo0+yNRI8Yu3ZGjPCbc4nhIjpOfCYDJYz2BDE+iPMh1lXAO\nIF3iKWIL3twN53O1oL7osI0+B/mWzM53qbuK9teIIrMsEw2uIOehY+XdiVDntjK+\nHN2Fq9C7L45kNO2F7F0oMBPR7Wa7lSroYAMhZRRL216HJGKQQlig84nUJkqamjdL\n0F+B8qb/+d/FG6TzQFmQtdZzeqmlR9QgEYxQ/ugqgQKBgQDp6XFxzuAmeR+FRdoB\nmY1n/qxhVDRcXeoer6u4n0od5MkJRU++Sj0JQeAeFLWgvNGRV2OuKnltqGmAT/Tm\nX4IW+tqaaPOx2MrCbuxRkbKD1TYccNYg5TAuyOZfAs+34ICiL+GktQIkd/qA4Tvq\nbvpYHsBKX2jNf5BFYzz6D5ia7QKBgQDRUpinQ/e1CA7oQpcxcwLIG6hURcKyKF+W\nhF8zBr571Zg9vSuqDjBUGqJMkunzM8W0UkReQMrtiYiqdLtjQkxPvBGYvIoORSip\nwiTTwVYt7rfNLd8OHhTySn33ByBzdD5LPDYNTtOngueSO2dDWsyS9h8LG112vjE3\nCpVYQSltAwKBgQC37tdEFNbxqeD9XXYWN/aXxg0q45ng4ACPbLftj2QqqZLj9VrF\nWX8xXlmrjcFcyd1JGpzJgaDGd92uBjGfTY7wHwXy0YB/YufdiHfPlG/5dpj8OEZI\ny6/duiBcqctI3gKIhno6mBM9NhMHcRU6PVYiINw4H1o77Yk25tg2Ejl/6QKBgQCE\n86tWAkuhRl8BktopZF2N8FM4Q57oPdCI78bvyAbQ7NfnzvGe76guo0QW0vGZsXaP\nk/kszIaX3VVavw4Oe5uwwUmD86zUZ4TuXgu6HAC65/cCcXJNqzmuszXS40nvSxQO\nAU5roXe52+Ft9iEenNt3NLB/A4CX3TGxPh2hkrHXNQKBgH4/3cUnf5R+5CS7tp4u\n1dxw3GTqJhF41Z6wd4GfvZuHNeJZfdetteGAK3h9zm45QsTx73JmY5P34j4aKpmK\n8AgG4gJzxYWG7UU3Dm2c1cDjDIkWeh11ozQjyPjfZZfPYFaDzkb0u+kxnxk7IUa8\nukq8lLSk5oBmOMACQiY6nzKQ\n-----END PRIVATE KEY-----\n",
-  "client_email": "ash-jav@dynamic-osprey-406318.iam.gserviceaccount.com",
-  "client_id": "106520466971372734314",
+  "project_id": "<your project id>",
+  "private_key_id": "<your_id>",
+  "private_key": "-----BEGIN PRIVATE KEY-----",
+  "client_email": "<your-email>",
+  "client_id": "<your_id>",
   "auth_uri": "https://accounts.google.com/o/oauth2/auth",
   "token_uri": "https://oauth2.googleapis.com/token",
   "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ash-jav%40dynamic-osprey-406318.iam.gserviceaccount.com",
+  "client_x509_cert_url": "your_url",
   "universe_domain": "googleapis.com"
 }
